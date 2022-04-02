@@ -23,7 +23,7 @@ public class MavenModule {
 		this.name = name;
 		this.depth = depth;
 	}
-	
+
 	@SuppressWarnings("nls")
 	@Override
 	public String toString() {
